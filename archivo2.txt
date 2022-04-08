@@ -3,3 +3,4 @@ gato
 vaca
 pez
 zorro
+oso
